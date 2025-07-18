@@ -1,4 +1,4 @@
-# 🛠️ Headline Generator Backend
+# Local Business Dashboard Backend
 
 This is the backend server for the Headline Generator App. It provides dynamic business headlines based on name, location, and industry, using pre-defined templates stored in a SQLite database.
 
