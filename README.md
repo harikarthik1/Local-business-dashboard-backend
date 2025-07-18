@@ -29,9 +29,7 @@ Edit
 cd backend
 npm install
 2. Start the Server
-bash
-Copy
-Edit
+
 node index.js
 Server runs on: http://localhost:5000
 
@@ -63,8 +61,4 @@ GET /regenerate-headline?name=...&location=...&industry=...
 Returns a new headline only.
 
 Example:
-
-pgsql
-Copy
-Edit
 /regenerate-headline?name=Cafe%20Bliss&location=New%20York&industry=cafe
